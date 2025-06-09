@@ -19,14 +19,14 @@ limpa e consistente.
 ## Exemplo de organização
 
 **Antes:**
-
+```
 /midia/
 ├── IMG_2023-01-01 12-15-01.JPG
 ├── Vídeo Final - Edição.mp4
-
+```
 
 **Depois:**
-
+```
 /midia/
 ├── pictures/
 │ └── 20230101/
@@ -34,6 +34,7 @@ limpa e consistente.
 └── videos/
 └── 20230101/
 └── video_final_edicao.mp4
+```
 
 ## 🚀 Como usar
 
@@ -56,7 +57,9 @@ Digite o caminho completo da pasta que contém os arquivos:
 No início do script, você pode ativar ou desativar a normalização dos nomes
 dos arquivos com a variável activate_snakecase:
 
+```bash
 activate_snakecase = True  # Ativa a conversão para snake_case ASCII
+```
 
 ### Requisitos
 
