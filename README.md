@@ -1,4 +1,4 @@
-# 📁 DOSIERIGILO - Organize Media by Date
+# DOSIERIGILO - Organize Media by Date
 
 Este script Python organiza automaticamente fotos e vídeos em subpastas com base
 no tipo de mídia (`pictures` ou `videos`) e na data de modificação do arquivo
@@ -7,18 +7,16 @@ limpa e consistente.
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
-- 📷 Classifica fotos e vídeos em pastas separadas
-- 📅 Cria subpastas por data de modificação (YYYYMMDD)
-- 🧹 Renomeia arquivos para snake_case ASCII (opcional)
-- 💾 Evita sobrescrever arquivos duplicados
-- 💻 Compatível com Windows, Linux e macOS
-- 📦 Sem dependências externas (somente bibliotecas padrão)
+- Classifica fotos e vídeos em pastas separadas
+- Cria subpastas por data de modificação (YYYYMMDD)
+- Renomeia arquivos para snake_case ASCII (opcional)
+- Evita sobrescrever arquivos duplicados
+- Compatível com Windows, Linux e macOS
+- Sem dependências externas (somente bibliotecas padrão)
 
----
-
-## 🖼️ Exemplo de organização
+## Exemplo de organização
 
 **Antes:**
 
@@ -37,9 +35,6 @@ limpa e consistente.
 └── 20230101/
 └── video_final_edicao.mp4
 
-
----
-
 ## 🚀 Como usar
 
 1. Clone este repositório:
@@ -47,12 +42,14 @@ limpa e consistente.
 Execute o script:
 
 ```bash
-python dosierigilo.py```
+python dosierigilo.py
+```
 
 Digite o caminho completo da pasta que contém os arquivos:
 
 ```bash
-    Digite o caminho completo para pasta: /caminho/para/sua/pasta```
+    Digite o caminho completo para pasta: /caminho/para/sua/pasta
+```
 
 ### Configuração
 
