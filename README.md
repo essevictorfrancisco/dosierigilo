@@ -49,7 +49,7 @@ python dosierigilo.py
 Digite o caminho completo da pasta que contém os arquivos:
 
 ```bash
-    Digite o caminho completo para pasta: /caminho/para/sua/pasta
+Digite o caminho completo para pasta: /caminho/para/sua/pasta
 ```
 
 ### Configuração
